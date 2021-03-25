@@ -1,0 +1,8 @@
+json
+requests
+beautifulsoup4
+jieba
+matplotlib
+wordcloud
+sklearn
+pyLDAvis
